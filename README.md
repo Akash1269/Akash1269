@@ -14,6 +14,26 @@ Experienced engineer with a proven track record of architecting high-impact, con
 
 ---
 
+### 📈 Professional Experience & Impact
+
+#### 🏢 Microsoft | Software Engineer 2
+_Nov 2019 – Present | Hyderabad_
+* **E2E Feature Ownership:** Owned the end-to-end consumer hotels ecosystem flow on Bing Travel, focusing on hotel listings, details, and checkout pages.
+* **Backend Systems:** Architected the server-side ASP.NET experience for hotel pricing engines, aggregating relevant rate options from multiple global partners.
+* **AI & Next-Gen UI:** Designed modern magazine/bento layouts integrated with maps, and built Bing Copilot cards to deliver LLM-generated content for smart user queries.
+* **Stability & Operations:** Led critical system stability initiatives, maintaining application availability and setting up robust monitoring frameworks.
+
+#### 🛍️ Flipkart | Software Development Engineer 1
+_Feb 2018 – Sep 2019 | Bengaluru_
+* **Inventory Forecasting:** Engineered core retail systems to project inventory demands 3 to 6 months into the future using multi-factor data streams.
+* **Process Automation:** Streamlined procurement and planning workflows for product business owners using a full-stack architecture built on React, Java, and Hadoop.
+
+#### 🔬 Past Engineering Roles
+* **Oracle App Lab (Application Developer II):** Implemented customer request tracking modules and optimized platform performance using Java and JavaScript.
+* **ZS Associates (Technology Analyst):** Built full-stack reporting and modeling applications from scratch using React, AngularJS, and C# ASP.NET. Implemented the interpreter pattern for client-side mathematical modeling on AWS infrastructure.
+
+---
+
 ### 🛠️ Tech Stack & Tooling
 
 | Category | Technologies |
@@ -25,12 +45,13 @@ Experienced engineer with a proven track record of architecting high-impact, con
 
 ---
 
-### 📈 Professional Highlights & Impact
-* **Microsoft:** Owned the end-to-end consumer hotels flow on Bing Travel. Built server-side ASP.NET experiences for hotel pricing engine aggregation, integrated Bing Copilot LLM-generated cards, and led application stability & monitoring initiatives.
-* **Flipkart:** Engineered core retail inventory planning systems to project inventory requirements 3 to 6 months out, using automated procurement workflows driven by React, Java, and Hadoop.
-* **ZS Associates & Others:** Built dynamic web frameworks from scratch, designed client-side mathematical modeling systems using the interpreter pattern, and managed AWS cloud infrastructure.
+### 🎓 Education
+
+* **Visvesvaraya National Institute of Technology (VNIT), Nagpur**
+  * B.Tech in Computer Science and Engineering (CSE) 
+  * *Activities & Focus:* Strong foundation in algorithms, data structures, and software engineering principles.
 
 ---
 
-### ⚡ Fun Fact / Philosophy
+### ⚡ Philosophy
 > "I focus on the intersection of raw system performance and clean UI aesthetics. Whether it's optimizing server-side data fetching or making a bento layout fluid at 60fps, UX and stability always come first."
