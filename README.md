@@ -1,9 +1,9 @@
 # Hi there, I'm Akash Bhayekar 👋
 
-**Full-Stack Developer | Software Engineer II**  
+**Full-Stack Developer | Software Engineer II | UX Design Enthusiast**  
 Experienced engineer with a proven track record of architecting high-impact, consumer-facing web experiences and scalable full-stack applications. Currently building at **Microsoft** on high-scale features for Bing Travel and server-side architectures.
 
-🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) | ✉️ [akash1269@gmail.com](mailto:akash1269@gmail.com) | 📍 Hyderabad, India
+🌐 [LinkedIn](https://www.linkedin.com/in/akashbhayekar) | ✉️ [akash1269@gmail.com](mailto:akash1269@gmail.com) | 📍 [Hyderabad, India](google.com/maps/search/Hyderabad%2C+Telangana)
 
 ---
 
